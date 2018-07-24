@@ -1,4 +1,3 @@
-# Pox
-File formats and converter for loading large pixel art based art into the browser. Mainly for use in HTML5 web games that have a lot of pixel art
+# Pyx
 
-file extensions: .pox, .poc
+The ".pyx" file format is used to store image data produced by the [Pyxer Tool](https://github.com/Kitanga/Pyxer). The config file's format will be determined later.
